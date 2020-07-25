@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Moyo App</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="terms_and_conditions"><u>Terms and Conditions</u></string>
+    <string name="moyo_app">Moyo App</string>
+    <string name="developed_by_somebody"><u>Developed by MoyoWeb</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation darwer</string>
+    <string name="signup"><u>SignUp</u></string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="systolic_diastolic">Systolic/Diastolic</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="systolic_diastolic_bpreadings">Systolic/Diastolic</string>
+    <string name="heart_rate_bpreadings">Heart Rate</string>
+    <string name="level_bpreadings">Level</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="name">Name</string>
+    <string name="duration">Duration</string>
+    <string name="dosage">Dosage</string>
+    <string name="weight_in_kgs">Weight in Kgs</string>
+    <string name="height_in_cm">Height in Cm</string>
+    <string name="update_prescribed_medication"><u>Update Prescribed Medication</u></string>
+    <string name="very_severely_underweight">very severely under weight</string>
+    <string name="severely_underweight">severely underweight</string>
+    <string name="underweight">underweight</string>
+    <string name="normal">normal</string>
+    <string name="overweight">overweight</string>
+    <string name="obese_class_i">obese_class_i</string>
+    <string name="obese_class_ii">obese_class_ii</string>
+    <string name="obese_class_iii">obese_class_iii</string>
 </resources>
